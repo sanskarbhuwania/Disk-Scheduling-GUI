@@ -1,4 +1,5 @@
-# Disk-Scheduling-GUI
+# Disk-Scheduling-GUI-Java Swing
+
 A GUI of Disk Scheduler (a process in Operating System)
 The algorithms covered: FCFS,SSTF,SCAN,LOOK,C_SCAN,C_LOOK
 
